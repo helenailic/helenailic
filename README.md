@@ -1,3 +1,5 @@
+# Hi there 👋 I'm Helena Ilic
+
 # 💫 About Me:
 🔭 I’m currently working on a foreign object detection model with @SWETeamTech<br>👯 I’m looking to collaborate on any software engineer or technology development opportunities<br>🤝 I’m looking for help with more project ideas!<br>🌱 I’m currently learning machine learning categorization methods & C++<br>💬 Ask me about my coding endeavors<br>⚡ Fun fact: I'm left-handed
 
@@ -18,7 +20,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=helenailic&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **helenailic/helenailic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
